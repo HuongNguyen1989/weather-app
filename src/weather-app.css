@@ -1,0 +1,61 @@
+p {
+  font-size: 20px;
+  font-style: italic;
+  font-family: "Special Elite", cursive;
+}
+form {
+  margin: 20px 10px;
+  border: 1px gray;
+  border-radius: 10px;
+}
+#text-search {
+  font-size: 16px;
+  border: 1px gray;
+  width: 90%;
+  padding: 5px;
+}
+#today-temp {
+  font-size: 60px;
+  font-weight: bolder;
+  padding-left: 20px;
+}
+#today-description {
+  font-size: 20px;
+  font-weight: bolder;
+}
+#cover {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30px;
+  padding: 5px;
+  border-radius: 20px;
+  background: #73dae7;
+}
+.tempUnit {
+  vertical-align: 30px;
+  font-size: 16px;
+}
+.github-link {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: rgb(179, 179, 245);
+  font-size: 20px;
+}
+.active {
+  font-weight: bold;
+}
+.active:hover {
+  cursor: default;
+}
+
+#forecast.forecast-temp-max {
+  font-weight: bold;
+}
+.forecast-temp-max {
+  font-weight: bold;
+}
