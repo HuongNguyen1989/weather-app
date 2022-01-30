@@ -7,7 +7,7 @@ function App() {
       <Weather />
       <span class="github-link">
         <a
-          href="https://github.com/HuongNguyen1989/weather"
+          href="https://github.com/HuongNguyen1989/weather-app"
           target="_blank"
           rel="noreferrer"
         >
